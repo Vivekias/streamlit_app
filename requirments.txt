@@ -3,3 +3,4 @@ pandas
 numpy
 sci-kit learn
 pickle
+sklearn.ensemble
