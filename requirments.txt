@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-sci-kit learn
+scikit-learn
 pickle
-sklearn.ensemble
 bagging
