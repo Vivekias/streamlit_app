@@ -4,8 +4,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler,LabelEncoder
 from sklearn.ensemble import BaggingRegressor
-import warnings
-warnings.filterwarnings('ignore')
+
 
 
 model=pickle.load(open('bagging.pkl','rb'))
