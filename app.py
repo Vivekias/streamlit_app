@@ -69,6 +69,7 @@ def main():
         st.success('Predicted Car Price:'+str( prediction*100000) +'Rupees')
         st.caption('Thanks for using!')
         st.balloons()
+        st.write('Created by Vivek Kumar Singh.')
 
 if __name__=='__main__':
     main()
